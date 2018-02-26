@@ -27,7 +27,7 @@
             "src/helpers/helpers.php"
         ],
         "psr-4": {
-            "Bantenprov\\WilayahIndonesia\\": "src"
+            "Bantenprov\\DemoTanara\\": "src"
         }
     },
     "minimum-stability": "dev"
